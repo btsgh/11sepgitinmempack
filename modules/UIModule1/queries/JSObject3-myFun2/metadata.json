@@ -1,6 +1,6 @@
 {
-  "gitSyncId": "2b55d712-f873-4ce2-8728-f35ae4d7335a_54c98e4d-ecb6-4556-88c4-3c2c46ccb284",
-  "id": "UIModule1_JSObject2.myFun1",
+  "gitSyncId": "65511ab5-dca0-4858-b87b-b916ef277ad7_0a06f675-3822-4d2b-b5d3-64467a408cc9",
+  "id": "UIModule1_JSObject3.myFun2",
   "isPublic": false,
   "pluginId": "js-plugin",
   "pluginType": "JS",
@@ -12,7 +12,7 @@
       "timeoutInMillisecond": 10000
     },
     "clientSideExecution": true,
-    "collectionId": "UIModule1_JSObject2",
+    "collectionId": "UIModule1_JSObject3",
     "confirmBeforeExecute": false,
     "contextType": "MODULE",
     "datasource": {
@@ -25,9 +25,9 @@
         "key": "body"
       }
     ],
-    "fullyQualifiedName": "JSObject2.myFun1",
+    "fullyQualifiedName": "JSObject3.myFun2",
     "moduleId": "UIModule1",
-    "name": "myFun1",
+    "name": "myFun2",
     "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
