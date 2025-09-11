@@ -1,0 +1,18 @@
+{
+  "gitSyncId": "68c2ad195ebb5d2c5a4894e2_4d450272-2f8d-493f-906b-e74a9d4c8662",
+  "id": "UIModule1_JSObject1",
+  "isPublic": false,
+  "unpublishedCollection": {
+    "contextType": "MODULE",
+    "moduleId": "UIModule1",
+    "name": "JSObject1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[{\n  \"label\": \"Page navigation\",\n  \"value\": \"Page navigation\"\n}, {\n  \"label\": \"Widget navigation\",\n  \"value\": \"Widget navigation\"\n}, {\n  \"label\": \"Tab navigation - WIP\",\n  \"value\": \"Tab navigation\"\n}, {\n  \"label\": \"External navigation\",\n  \"value\": \"External navigation\"\n}]"
+      }
+    ]
+  }
+}
